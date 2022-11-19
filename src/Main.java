@@ -47,19 +47,35 @@ public class Main {
             System.out.println("Если возраст человека равен " + age3 + " то ему нужно ходить на работу");
         }
         System.out.println("____________________________________________________________________________");
-        int age4 = 14;
-        int adult = 1;
+        int age4 = 12;
+        int adults = 0;
         if (age4 < 5) {
             System.out.println("Кататься нельзя категорически, даже в присутствии взрослых.");
         }
-        if (age4 >= 5 && age4 <14 && adult == 1) {
+        if (age4 >= 5 && age4 <14 && adults >= 1) {
             System.out.println("Кататься можно, но в присутствии взрослых.");
+        } else {
+        System.out.println("Кататься запрещено.");
         }
         if (age4 >= 14) {
             System.out.println("Кататься можно, даже без родителей.");
-
-
-
+        }
+        System.out.println("____________________________________________________________________________");
+        int one = 102;
+        int two = 102;
+        int three = 102;
+        if (one > two && one > three) {
+       System.out.println("Число \"one\" больше двух других.");
+        }
+        if (two > one && two > three) {
+        System.out.println("Число \"two\" больше двух других.");
+        }
+        if (three > one && three > two) {
+        System.out.println("Число \"three\" больше двух других.");
+        }
+        if (three == one && three == two) {
+        System.out.println("Все три числа равны.");
+        }
 
 
 

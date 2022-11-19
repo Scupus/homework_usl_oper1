@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19b11c85-d5ec-438c-aacf-6a35b0298618" name="Changes" comment="Часть 2 добавили else">
+    <list default="true" id="19b11c85-d5ec-438c-aacf-6a35b0298618" name="Changes" comment="Часть 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668834557650</updated>
-      <workItem from="1668834559089" duration="6770000" />
+      <workItem from="1668834559089" duration="8208000" />
     </task>
     <task id="LOCAL-00001" summary="Начали">
       <created>1668835090557</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668838828084</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Часть 3">
+      <created>1668841617258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668841617258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,7 @@
     <MESSAGE value="Начали" />
     <MESSAGE value="Первая часть" />
     <MESSAGE value="Часть 2 добавили else" />
-    <option name="LAST_COMMIT_MESSAGE" value="Часть 2 добавили else" />
+    <MESSAGE value="Часть 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 3" />
   </component>
 </project>
